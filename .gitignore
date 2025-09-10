@@ -1,0 +1,40 @@
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# Personal information (do not commit sensitive data)
+*.key
+*.pem
+*.p12
+passwords.txt
+secrets/
+confidential/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.db
+
+# Lab and exercise files that may contain sensitive data
+lab-exercises/sensitive/
+practice-data/real/
