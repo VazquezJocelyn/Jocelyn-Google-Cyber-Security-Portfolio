@@ -1,5 +1,8 @@
 # **Jocelyn Vazquez — Google Cybersecurity Portfolio**
 
+[Jocelyn Vazquez_Coursera.pdf](https://github.com/user-attachments/files/23686531/Jocelyn.Vazquez_Coursera.pdf)
+
+
 ## **Google Cybersecurity Certificate**
 This portfolio highlights my work from the Google Cybersecurity Professional Certificate. The program includes eight courses developed by Google, each with practice-based assessments designed to prepare learners for entry-level roles in cybersecurity.
 
