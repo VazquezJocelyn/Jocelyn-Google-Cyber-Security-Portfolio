@@ -1,6 +1,6 @@
 # **Jocelyn Vazquez — Google Cybersecurity Portfolio**
 
-[Jocelyn Vazquez_Coursera.pdf](https://github.com/user-attachments/files/23686531/Jocelyn.Vazquez_Coursera.pdf)
+<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/8304fff2-0e28-4cad-8574-863487fafc91" />
 
 
 ## **Google Cybersecurity Certificate**
